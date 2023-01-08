@@ -1,0 +1,18 @@
+Pomodoro technique
+
+helps with information retention
+
+do task for 25 minutes
+take a 5 minute break
+repeat 4 times
+take a 15-30 minute break
+
+tkinter
+Top: status (Timer, Work, Break)
+tomato in the middle with countdown
+
+start button
+reset button
+
+when timer is up, the screen will pop to the front of all other screeens
+
